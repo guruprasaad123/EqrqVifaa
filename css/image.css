@@ -1,0 +1,29 @@
+.slide1 {
+  background-image: url("../img/slides.jpg");
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.slide2 {
+  background-image: url("../img/gray-pattern.jpg");
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.slide3 {
+  background-image: url("../img/circle-hand.jpg");
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.slide4 {
+  background-image: url("../img/hand-arm.jpg");
+  background-repeat: no-repeat;
+  background-position: center; }
+
+#connect-with-us li:not(:last-child) {
+  margin-bottom: 5px; }
+
+#front-end a, #back-end a, #machine-learning a, #data-science a, #printing a {
+  color: #1a237e; }
+#front-end span, #back-end span, #machine-learning span, #data-science span, #printing span {
+  font-weight: bolder; }
+
+/*# sourceMappingURL=image.css.map */
